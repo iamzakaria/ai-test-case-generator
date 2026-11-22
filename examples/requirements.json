@@ -1,0 +1,12 @@
+{
+  "requirements": [
+    {
+      "id": "REQ-REG-01",
+      "text": "Register a synthetic patient with a unique SYN- identifier; reject duplicates."
+    },
+    {
+      "id": "REQ-APT-01",
+      "text": "Prevent two scheduled appointments for the same clinician at the same time."
+    }
+  ]
+}
